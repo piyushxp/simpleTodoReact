@@ -2,5 +2,5 @@
 
 ## [Simple-React-TodoApp](https://piyush-mahapatra-au6.github.io/simpleTodoReact/)
 
-![](images/image.png=400x)
+![](images/image.png)
 
