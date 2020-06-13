@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simpleTodoReact/static/css/main.fb8d7dcc.chunk.css",
+    "main.js": "/simpleTodoReact/static/js/main.1eadc5b6.chunk.js",
+    "main.js.map": "/simpleTodoReact/static/js/main.1eadc5b6.chunk.js.map",
+    "runtime-main.js": "/simpleTodoReact/static/js/runtime-main.23176816.js",
+    "runtime-main.js.map": "/simpleTodoReact/static/js/runtime-main.23176816.js.map",
+    "static/js/2.58d8a9e6.chunk.js": "/simpleTodoReact/static/js/2.58d8a9e6.chunk.js",
+    "static/js/2.58d8a9e6.chunk.js.map": "/simpleTodoReact/static/js/2.58d8a9e6.chunk.js.map",
+    "index.html": "/simpleTodoReact/index.html",
+    "precache-manifest.afb1445a50643e224f69815fde2960ee.js": "/simpleTodoReact/precache-manifest.afb1445a50643e224f69815fde2960ee.js",
+    "service-worker.js": "/simpleTodoReact/service-worker.js",
+    "static/css/main.fb8d7dcc.chunk.css.map": "/simpleTodoReact/static/css/main.fb8d7dcc.chunk.css.map",
+    "static/js/2.58d8a9e6.chunk.js.LICENSE.txt": "/simpleTodoReact/static/js/2.58d8a9e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23176816.js",
+    "static/js/2.58d8a9e6.chunk.js",
+    "static/css/main.fb8d7dcc.chunk.css",
+    "static/js/main.1eadc5b6.chunk.js"
+  ]
+}
